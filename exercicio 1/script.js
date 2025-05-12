@@ -10,4 +10,11 @@ let soma =num1+num2;
 
 alert(soma)
 
+
+
+if(soma>10)
+        alert("o resutado e menor que 10")
+
+
+
 }

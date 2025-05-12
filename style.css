@@ -1,0 +1,70 @@
+/* Reset básico */
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+/* Corpo da página */
+body {
+background-color: rgb(73, 5, 147);
+font-family: Arial, sans-serif;
+padding: 20px;
+}
+
+/* Cabeçalho */
+header {
+background-color: rgb(0, 88, 252);
+padding: 30px;
+text-align: center;
+color: white;
+border-radius: 12px;
+box-shadow: 0 4px 10px rgba(119, 0, 255, 0.2);
+margin-bottom: 30px;
+}
+
+/* Conteúdo principal */
+main {
+background-color: white;
+padding: 40px;
+margin: auto;
+border-radius: 12px;
+max-width: 900px;
+box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Títulos */
+h1, h2 {
+color: #000000;
+margin-bottom: 20px;
+font-size: 20px;
+}
+
+/* Lista de exercícios */
+ul {
+list-style: none;
+padding-left: 0;
+}
+
+li {
+background-color: rgb(189, 89, 175);
+margin-bottom: 10px;
+padding: 12px 20px;
+    border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: background 0.3s ease;
+}
+
+li:hover {
+    background-color: rgb(150, 60, 140);
+    }
+
+a {
+color: white;
+text-decoration: none;
+font-weight: bold;
+}
+
+a:hover {
+text-decoration: underline;
+}
