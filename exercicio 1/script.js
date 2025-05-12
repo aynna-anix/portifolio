@@ -13,8 +13,9 @@ alert(soma)
 
 
 if(soma>10)
-        alert("o resutado e menor que 10")
+        alert("o resutado e maior que 10")
 
 
-
+if (soma<10)
+alert("o resutado e menor que 10")
 }
