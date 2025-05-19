@@ -16,3 +16,31 @@ num2=Number(window.prompt('digite um numero:'));
 
 let soma =num1+num2;
 }
+function  subtração (){
+
+     num3=num1-num2
+
+
+     num1-Number(window.prompt(digite un numero:));
+
+     num2-Number(window.prompt('digite un numero:];
+     }
+     function  divisão (){
+
+      num3=num1-num2
+
+
+      num1-Number(window.prompt(digite un numero:));
+
+      num2-Number(window.prompt('digite un numero:];
+      }
+      function  adição (){
+
+       num3=num1-num2
+
+
+       num1-Number(window.prompt(digite un numero:));
+
+       num2-Number(window.prompt('digite un numero:];
+       }
+}
