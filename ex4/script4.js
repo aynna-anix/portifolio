@@ -11,3 +11,9 @@ resultado.innerHTML = `<p>o resultado é ${media}</p>`;
 console.log(resultado);
 
 }
+
+if (media <6) {
+
+    let med =6 -media
+    resultado.innerHTML= `<p> reprovado </p>
+}
