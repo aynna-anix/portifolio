@@ -21,26 +21,25 @@ function  subtração (){
      num3=num1-num2
 
 
-     num1-Number(window.prompt(digite un numero:));
+     num1-Number(window.prompt(digite um numero:));
 
-     num2-Number(window.prompt('digite un numero:];
+     num2-Number(window.prompt(digite um numero:));
      }
      function  divisão (){
 
       num3=num1-num2
 
 
-      num1-Number(window.prompt(digite un numero:));
+      num1-Number(window.prompt(digite um numero:));
 
-      num2-Number(window.prompt('digite un numero:];
+      num2-Number(window.prompt(digite um numero:));
       }
       function  adição (){
 
        num3=num1-num2
 
 
-       num1-Number(window.prompt(digite un numero:));
+       num1-Number(window.prompt(digite um numero:));
 
-       num2-Number(window.prompt('digite un numero:];
+       num2-Number(window.prompt(digite um numero:));
        }
-}
