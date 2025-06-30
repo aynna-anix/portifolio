@@ -1,3 +1,6 @@
+let mostrarHTML = document.getElementById('resultado')
+
+
 function gerartabuada() {
     // Pede ao usuário para digitar um número
     const input = prompt('Digite um número para ver sua tabuada');
