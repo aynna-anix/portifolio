@@ -18,7 +18,7 @@ function gerartabuada() {
 
     // Loop while para gerar a tabuada  
     while (contador <= 10) {
-        resultado.push(`${numero} x ${contador} = ${numero * contador}`);
+      mostrarHTML.innerText+= `${numero} x ${contador} = ${numero * contador}`;
         contador++;
     }
 
